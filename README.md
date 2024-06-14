@@ -5,6 +5,9 @@ La experiencia consiste en buscar por la habitación un arma para poder salir de
 Por falta de tiempo no se ha podido probar el apk en unas gafas de realidad virtual, aunque es jugable tanto desde el editor de unreal como buildeado para PC. 
 El apk esta desarrollado para las gafas de realidad virtual meta quest: [APK](https://drive.google.com/file/d/1mEHwlshvZZoDGw_GgYtajBo7BgecFBJC/view?usp=sharing)
 
+## Video Gameplay
+[Gameplay](https://www.youtube.com/watch?v=56LjvR6pYkk)
+
 ## Credits
 Los assets del proyecto se han obtenido del [plugin Isometric - Interiors](https://www.unrealengine.com/marketplace/en-US/product/isometric-interiors) y del
 [plugin Low Poly Viking Top-Down Interiors](https://www.unrealengine.com/marketplace/en-US/product/low-poly-viking-top-down-interiors) disponibles en la Epic Store. 
